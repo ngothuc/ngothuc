@@ -1,8 +1,7 @@
 # 👋 Hi there!  
 
 I'm **Ngô Thức**, a curious explorer in the tech world! 🌟  
-🔍 While studying, I often don't know how to code, however, when I'm about to take the exam, I know :v
-
+🔍 Normally, I don't know how to code, but occasionally, I do!
 ---
 
 ## 💼 About Me  
