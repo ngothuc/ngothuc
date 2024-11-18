@@ -2,6 +2,7 @@
 
 I'm **Ngô Thức**, a curious explorer in the tech world! 🌟  
 🔍 Normally, I don't know how to code, but occasionally, I do!
+
 ---
 
 ## 💼 About Me  
